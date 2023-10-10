@@ -1,0 +1,19 @@
+package Animal;
+
+public class Perro extends Animal { //Herencia de la clase superior Animal
+
+	public static void main(String[] args) {
+		
+		
+		//"Polimorfear" o sobreescribir el metodo heredado
+		public void hacerSonido() {
+			
+			System.out.println("El perrito ladra y hace guua");
+			
+		}//metodo hacerSonido heredado de Animal
+		
+		
+
+	}//cierre de main 
+
+}//cierre clase Perro 

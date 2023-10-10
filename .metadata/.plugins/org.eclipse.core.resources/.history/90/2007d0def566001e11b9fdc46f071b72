@@ -1,0 +1,16 @@
+package Figura;
+
+public class TestFiguras {
+
+	public static void main(String[] args) {
+
+		
+		//Generar las instancias de nuestras clases
+
+		
+		//1. Instancia de la clase Figura
+		//Figura Generica = new Figura ();
+		
+	}//metodo main 
+
+}//class TestFiguras

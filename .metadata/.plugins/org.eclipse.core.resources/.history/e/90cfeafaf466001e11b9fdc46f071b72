@@ -1,0 +1,26 @@
+package Figura;
+
+//Herencia de la clase abstracta Figura 
+public class Circulo extends Figura{
+
+	//1. Atributos 
+	double pi;
+	double radio;
+	
+	
+	
+	//2. Constructor 
+	Circulo(double pi, double area) {
+		this.pi = pi;
+		this.radio = radio;
+		}//Constructor
+	
+	
+	//3. Metodos (metodo abstracto heredado de Figura)
+	@Override
+	public double calcularArea() {
+		double areaCirculo = pi *
+	}//metodo calcularArea
+	
+	
+}//class Circulo

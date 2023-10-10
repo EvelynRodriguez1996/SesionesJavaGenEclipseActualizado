@@ -1,0 +1,11 @@
+//Vamos a usar clases abstractas para evitar la instanciacion de objetos que no necesito (generalmente son objetos muy abstractos, como Persona, Figura, Trasporte, Animal, Comida, Arte, Operaciones Matematicas, Lecturas, Ropa, Plantas, Paises, etc).
+
+
+package Figura;
+
+//Utilizando clases abstractas, evitamos las instancias no necesarias
+
+//
+public class Figura {
+
+}//clase Figura

@@ -1,0 +1,16 @@
+package Figura;
+
+public class Circulo {
+
+	//1. Atributos 
+	
+	
+	
+	
+	//2. Constructor 
+	
+	
+	
+	
+	//3. Metodos (metodo abstracto heredado de Figura)
+}

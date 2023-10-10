@@ -1,0 +1,8 @@
+//En esta clase vamos a heredar el atributo de la clase abstracta Figura , y lo vamos a sobreescribir
+
+
+package Figura;
+
+public class Rectangulo {
+
+}

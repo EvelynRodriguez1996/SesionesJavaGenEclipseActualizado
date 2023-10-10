@@ -1,0 +1,17 @@
+package Animal;
+
+public class Perro extends Animal { //Herencia de la clase superior Animal
+
+	
+		//"Polimorfear" o sobreescribir el metodo heredado
+		public void hacerSonido() {
+			@Override //con la anotacion @override, le decimos a Java que el metodo hacerSonido sera sobreescrito 
+			System.out.println("El perrito ladra y hace guua");
+			
+		}//metodo hacerSonido heredado de Animal
+		
+		
+
+	 
+
+}//cierre clase Perro 

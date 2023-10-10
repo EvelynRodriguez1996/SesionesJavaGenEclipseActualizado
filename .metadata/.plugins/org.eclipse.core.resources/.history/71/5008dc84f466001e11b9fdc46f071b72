@@ -1,0 +1,25 @@
+package Figura;
+
+public class Circulo {
+
+	//1. Atributos 
+	double pi;
+	double area;
+	
+	
+	
+	//2. Constructor 
+	Circulo(double pi, double area) {
+		this.pi = pi;
+		this.area = area;
+		}//Constructor
+	
+	
+	//3. Metodos (metodo abstracto heredado de Figura)
+	@Override
+	public double calcularArea () {
+		
+	}//metodo calcularArea
+	
+	
+}//class Circulo

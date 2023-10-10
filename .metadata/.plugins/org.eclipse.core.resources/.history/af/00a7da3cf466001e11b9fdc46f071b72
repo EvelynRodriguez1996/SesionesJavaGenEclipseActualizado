@@ -1,0 +1,21 @@
+package Figura;
+
+public class Circulo {
+
+	//1. Atributos 
+	double pi;
+	double area;
+	
+	
+	
+	//2. Constructor 
+	Circulo(double pi, double area) {
+		this.pi = pi;
+		this.area = area;
+		
+	}
+	
+	
+	
+	//3. Metodos (metodo abstracto heredado de Figura)
+}
