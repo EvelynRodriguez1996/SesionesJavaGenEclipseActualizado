@@ -1,0 +1,19 @@
+package Figura;
+
+
+
+public interface Calculable {
+
+	//Area, Volumen, Perimetro
+	//Metodos de la interface
+	//Volume V = 4/3 π r³
+	//Area 4  π r*r
+	//Perimetro 2 * π * r
+	
+	double calcularArea();
+	
+	double calcularVolumen();
+	
+	double calcularPerimetro();
+	
+}//interface Calculable

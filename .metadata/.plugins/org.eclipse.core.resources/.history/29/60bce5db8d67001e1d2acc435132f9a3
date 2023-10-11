@@ -1,0 +1,9 @@
+package Figura;
+
+
+
+public interface Calculable {
+
+	//Area, Volumen, Perimetro
+	//Volume V = 4/3 π r³
+}
